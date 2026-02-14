@@ -16,11 +16,5 @@
         "key": "beh123",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "dd6df0a51ceefe11",
-        "key": "amir123",
-        "expirydate": "15-06-2026",
-        "Allowoffline": false
     }
 ]
