@@ -22,11 +22,5 @@
         "key": "ami38s",
         "expirydate": "15-06-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "b6874e9426210689",
-        "key": "abol85",
-        "expirydate": "15-04-2026",
-        "Allowoffline": false
     }
 ]
