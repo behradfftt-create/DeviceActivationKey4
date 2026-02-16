@@ -28,5 +28,11 @@
         "key": "mordad12",
         "expirydate": "20-01-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dea487450a85fbdc",
+        "key": "mohamad85",
+        "expirydate": "16-05-2026",
+        "Allowoffline": false
     }
 ]
