@@ -52,5 +52,11 @@
         "key": "AbolEver",
         "expirydate": "21-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ce315f1d9e6652f7",
+        "key": "mmdkoni",
+        "expirydate": "21-23-2026",
+        "Allowoffline": false
     }
 ]
