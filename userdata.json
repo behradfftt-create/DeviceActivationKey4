@@ -46,5 +46,11 @@
         "key": "Assassin",
         "expirydate": "20-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6874e9426210689",
+        "key": "AbolEver",
+        "expirydate": "21-02-2026",
+        "Allowoffline": false
     }
 ]
