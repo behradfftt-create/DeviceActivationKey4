@@ -70,5 +70,11 @@
         "key": "lookkhoshshans",
         "expirydate": "21-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e272914f8e2ea6ac",
+        "key": "alirafed12",
+        "expirydate": "21-03-2026",
+        "Allowoffline": false
     }
 ]
